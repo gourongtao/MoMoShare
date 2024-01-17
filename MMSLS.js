@@ -20,10 +20,10 @@ const MMSLS = [
  */
 const MMSLS = [
     "https://www.maimemo.com/share/page?uid=28467050&pid=662f5e00a288c231a644e71024835ef0&tid=a4729b0c7d2afe6a9fd7f0c4e0fc5205", 
-    "https://www.maimemo.com/share/page?uid=28467050&pid=b02459eebd97b718c833ba0a963c89c1&tid=7a2f6e26d08564b2c678116298927e96", 
+    "https://www.maimemo.com/share/page?uid=28467050&pid=fd7d3e7267b739fe7845d45676917685&tid=ad77265241b69de90cc3c781b440b86e", 
 ]
   /**
-   * 生成随机数字u
+   * 生成随机数字d
    * @param {number} min 最小值（包含）
    * @param {number} max 最大值（不包含）
    */
