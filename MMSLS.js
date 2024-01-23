@@ -19,11 +19,11 @@ const MMSLS = [
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=28467050&pid=efc98ecd56e2eee06b1c6c2d7a578d0c&tid=eabccf2f2da8a2f7b932a1d03d6962a3", 
+    "https://www.maimemo.com/share/page?uid=28467050&pid=9cf76b575daec2549dfcf24c634ad51b&tid=4e2d257e2660510174e78291ce806e11", 
     "https://www.maimemo.com/share/page?uid=28467050&pid=305d53379f930e92ad9b41e2e3814310&tid=75458c7ed7b2c34f7a97a85b7ca4436e", 
 ]
   /*
-   * 生成随机数字d
+   * 生成随机数字u
    * @param {number} min 最小值（包含）
    * @param {number} max 最大值（不包含）
    */
