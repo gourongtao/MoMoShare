@@ -1,4 +1,4 @@
-/**
+1/**
 利用随机概率实现多账户运行
 
 填写格式如下：
@@ -19,11 +19,11 @@ const MMSLS = [
 =====================请在下面编辑=====================
  */
 const MMSLS = [
-    "https://www.maimemo.com/share/page?uid=28467050&pid=556e8760e1b81cdbce4f2545d28cabe5&tid=619f682bc32df014f016cc8f14e28bd3", 
-    "https://www.maimemo.com/share/page?uid=28467050&pid=65b697f5ebb4c0707ed617328a473884&tid=4d7ed173e428f4cd411e4938875e73aa", 
+    "https://www.maimemo.com/share/page?uid=28467050&pid=fb9492b3a453d3e3acb905ff73ea6e04&tid=d6dbf7f39d4df6cade0cb602cead60fd", 
+    "https://www.maimemo.com/share/page?uid=28467050&pid=fb9492b3a453d3e3acb905ff73ea6e04&tid=d6dbf7f39d4df6cade0cb602cead60fd", 
 ]
   /*
-   * 生成随机数字d
+   * 生成随机数字u
    * @param {number} min 最小值（包含）
    * @param {number} max 最大值（不包含）
    */
